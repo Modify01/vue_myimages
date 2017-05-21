@@ -1,6 +1,6 @@
 # vue-images
 [![npm version](https://img.shields.io/npm/v/vue-images.svg?style=flat-square)](https://badge.fury.io/js/vue-images)
-[![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/littlewin-wang/vue-images/blob/master/LICENSE)
+[![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://wangyuxuan.win/vue-myimages/blob/pages/LICENSE)
 
 > A simple lightbox component for displaying an array of images
 
@@ -15,7 +15,7 @@
 - Responsive design
 
 ## Demo & Examples
-Live demo: [https://littlewin-wang.github.io/vue-images/example/](https://littlewin-wang.github.io/vue-images/example/)
+Live demo: [http://wangyuxuan.win/vue_myimages/example/](http://wangyuxuan.win/vue_myimages/example)
 
 ## Start guide
 
